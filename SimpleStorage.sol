@@ -2,7 +2,7 @@
 //pragma solidity >=0.8.7 < 0.9.0 use version between some range of version
 
 //SPDX-License-Identifier: MIT
-pragma solidity 0.8.7;
+pragma solidity ^0.8.7;
 
 contract SimpleStorage {
     uint256 public favoriteNumber;
